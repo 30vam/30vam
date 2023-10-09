@@ -1,4 +1,4 @@
-<h2>Looking forward to learning more stuff</h2> 
+### Looking forward to learning more stuff :)
 
 <!-- COMMENT
 **30vam/30vam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Paragraphed Icons -->
 
-<h3> Projects made with: </h3>
+#### Projects made with:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp" />
