@@ -21,5 +21,17 @@ Here are some ideas to get you started:
   </a>
 </p>-->
 
+<p align="center">
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="https://skillicons.dev/icons?i=cs,cpp" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="[https://skillicons.dev](https://skillicons.dev)">
+    <img src="https://skillicons.dev/icons?i=qt,unity" />
+  </a>
+</p>
+
 <p>[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)<!p>
 <p>[![My Skills](https://skillicons.dev/icons?i=qt,unity)](https://skillicons.dev)<!p>
