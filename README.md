@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 </p>-->
 
 <p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp" />
   </a>
 </p>
 
 <p align="center">
-  <a href="[https://skillicons.dev](https://skillicons.dev)">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=qt,unity" />
   </a>
 </p>
