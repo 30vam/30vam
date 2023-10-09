@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Paragraphed Icons -->
 
-### Projects made with:
+### Made projects using:
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp" />
