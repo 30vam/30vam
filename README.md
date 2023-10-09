@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=qt,unity)](https://skillicons.dev)
+<!-- Centering Icons -->
+<!--<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>-->
+
+<p>[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)<!p>
+<p>[![My Skills](https://skillicons.dev/icons?i=qt,unity)](https://skillicons.dev)<!p>
