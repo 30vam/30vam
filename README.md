@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,unity" />
+    <img src="https://skillicons.dev/icons?i=unity,qt" />
   </a>
 </p>
