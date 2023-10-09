@@ -1,4 +1,4 @@
-### Hi there 👋
+### Looking forward to learning more stuff
 
 <!--
 **30vam/30vam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,unity)](https://skillicons.dev)
