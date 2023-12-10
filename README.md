@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Projects were made using these tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css" />
   </a>
 </p>
 
