@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,bootstrap,tailwind" />
   </a>
 </p>
 
