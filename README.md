@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,qt" />
+    <img src="https://skillicons.dev/icons?i=unity,qt,bootstrap,tailwind" />
   </a>
 </p>
