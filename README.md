@@ -1,4 +1,4 @@
-## Looking forward to learning more stuff :)
+##
 
 <!-- COMMENT
 **30vam/30vam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
